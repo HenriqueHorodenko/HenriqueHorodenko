@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">👾 Henrique Horodenko</h1>
+<p align="center">
+  Information Systems Student | Backend & Data Enthusiast
+</p>
 
 ###
 
