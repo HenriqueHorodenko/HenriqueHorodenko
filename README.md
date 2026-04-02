@@ -11,6 +11,52 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenriqueHorodenko/HenriqueHorodenko/output/pacman-contribution-graph.svg">
 </picture>
 
+## 👾 About Me
+
+```javascript
+const henrique = {
+  name: "Henrique Horodenko",
+  role: "Information Systems Student @ Mackenzie",
+
+  focus: [
+    "software development",
+    "data analysis",
+    "infrastructure",
+    "information security"
+  ],
+
+  currentLevel: "Building a solid foundation in backend and data",
+
+  techStack: {
+    languages: ["Python", "Java", "JavaScript", "SQL"],
+    tools: ["Git", "Linux", "Excel"],
+    fundamentals: ["networks", "operating systems", "databases"]
+  },
+
+  exploring: [
+    "financial data analysis",
+    "APIs and automation",
+    "cloud (AWS basics)",
+    "cybersecurity"
+  ],
+
+  approach: "self-taught and hands-on — understanding systems end-to-end",
+
+  languagesSpoken: {
+    portuguese: "native",
+    english: "advanced",
+    spanish: "intermediate"
+  },
+
+  achievements: [
+    "Santander 2025 - Data Science with Python",
+    "Introduction to Cybersecurity",
+    "Cloud Services practices (Swift + Cognitive Services)"
+  ],
+
+  funFact: "I use arch btw xd"
+};
+```
 ###
 
 <div align="center">
