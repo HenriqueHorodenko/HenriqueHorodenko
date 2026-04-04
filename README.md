@@ -59,6 +59,12 @@ const henrique = {
 ```
 ###
 
+###
+
+<img align="right" height="200" src="https://i.redd.it/lfzv6tyr1f691.gif"  />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
   <img width="12" />
