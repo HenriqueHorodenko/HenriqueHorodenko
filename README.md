@@ -37,7 +37,7 @@ const henrique = {
     "financial data analysis",
     "APIs and automation",
     "cloud (AWS basics)",
-    "cybersecurity"
+    "Pyspark"
   ],
 
   approach: "self-taught and hands-on — understanding systems end-to-end",
