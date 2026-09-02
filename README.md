@@ -1,6 +1,6 @@
 <h1 align="center">👾 Henrique Horodenko</h1>
 <p align="center">
-  Information Systems Student | Backend & Data Enthusiast
+  Information Systems Student | Cybersecurity Enthusiast
 </p>
 
 ###
@@ -29,12 +29,12 @@ const henrique = {
 
   techStack: {
     languages: ["Python", "Java", "JavaScript", "SQL"],
-    tools: ["Git", "Linux", "Excel"],
+    tools: ["Git", "Linux", "Malwares"],
     fundamentals: ["networks", "operating systems", "databases"]
   },
 
   exploring: [
-    "financial data analysis",
+    "Pentesting",
     "APIs and automation",
     "cloud (AWS basics)",
     "Pyspark"
@@ -54,7 +54,7 @@ const henrique = {
     "Cloud Services practices (Swift + Cognitive Services)"
   ],
 
-  funFact: "I use arch btw xd"
+  funFact: "I use arch btw"
 };
 ```
 ###
