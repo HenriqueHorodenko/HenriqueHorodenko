@@ -49,7 +49,7 @@ const henrique = {
   },
 
   achievements: [
-    "Santander 2025 - Data Science with Python",
+    "Ethical Hacker - Cisco Networking Academy",
     "Introduction to Cybersecurity",
     "Cloud Services practices (Swift + Cognitive Services)"
   ],
